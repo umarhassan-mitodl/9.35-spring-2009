@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, prerequisites, guest lectures, readings, grading, assignments,
   exams, criteria for HASS CI subjects, a statement on plagiarism, how to cite a source,
   and the schedule of lecture topics and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

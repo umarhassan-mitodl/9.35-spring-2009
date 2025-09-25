@@ -5,6 +5,8 @@ description: Filtering function provided as a supporting file for a problem set 
 file: /courses/9-35-sensation-and-perception-spring-2009/0dbe8c4c3361e0ff70139fbad710e73d_filterim.m
 file_size: 576
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

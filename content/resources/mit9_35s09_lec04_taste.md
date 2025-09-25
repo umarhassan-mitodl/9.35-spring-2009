@@ -7,6 +7,8 @@ description: "Lecture presentation on taste, retronasal olfactory sensation, fla
 file: /courses/9-35-sensation-and-perception-spring-2009/761bb872070b78e6c680e2816eeea7ab_MIT9_35s09_lec04_taste.pdf
 file_size: 1539326
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

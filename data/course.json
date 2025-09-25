@@ -35,6 +35,7 @@
     "website": "9-35-sensation-and-perception-spring-2009"
   },
   "course_title": "Sensation And Perception",
+  "hide_download": true,
   "course_description": "This course provides an introduction to important philosophical questions about the mind, specifically those that are intimately connected with contemporary psychology and neuroscience. Are our concepts innate, or are they acquired by experience? (And what does it even mean to call a concept 'innate'?) Are 'mental images' pictures in the head? Is color in the mind or in the world? Is the mind nothing more than the brain? Can there be a science of consciousness? The course will include guest lectures by Professors.\n",
   "department_numbers": [
     "9"
@@ -45,6 +46,7 @@
     "content": "7ea4cfeb-4099-c5ff-992f-b60c16d24b93",
     "website": "9-35-sensation-and-perception-spring-2009"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets with Solutions"
   ],

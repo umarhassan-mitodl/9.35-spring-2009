@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides details on the problem sets assigned for the course,
   due dates, and solutions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

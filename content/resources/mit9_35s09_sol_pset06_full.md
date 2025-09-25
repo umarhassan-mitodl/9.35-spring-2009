@@ -4,6 +4,8 @@ description: Solutions to a problem set on sound and hearing.
 file: /courses/9-35-sensation-and-perception-spring-2009/f26491ff2e9d8223d786af1b5cf76a4f_MIT9_35s09_sol_pset06_full.pdf
 file_size: 166474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

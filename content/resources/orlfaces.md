@@ -5,6 +5,8 @@ description: Binary file provided as a supporting file for a problem set on usin
 file: /courses/9-35-sensation-and-perception-spring-2009/954aa8733452ac76c49305505d7143ac_orlFaces.mat
 file_size: 372625
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

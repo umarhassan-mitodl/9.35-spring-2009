@@ -6,6 +6,8 @@ description: Lecture presentation on auditory scene analysis, source segregation
 file: /courses/9-35-sensation-and-perception-spring-2009/3b5d1b394e863c388802f38cbb2742f2_MIT9_35s09_lec01_auditory.pdf
 file_size: 309791
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
