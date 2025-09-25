@@ -5,6 +5,8 @@ description: Viewing function provided as a supporting file for a problem set on
 file: /courses/9-35-sensation-and-perception-spring-2009/fddb75ce88366c5b527fa4613b9973dd_viewim.m
 file_size: 571
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

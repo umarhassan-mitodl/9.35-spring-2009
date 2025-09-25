@@ -4,6 +4,8 @@ description: Recitation notes on the eye and the retina.
 file: /courses/9-35-sensation-and-perception-spring-2009/086d219123b0de7af3a6d32d9a335f7c_MIT9_35s09_rec02_eye_and_retina.pdf
 file_size: 3729654
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

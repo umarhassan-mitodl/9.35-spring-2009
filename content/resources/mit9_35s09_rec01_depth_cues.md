@@ -4,6 +4,8 @@ description: Recitation notes on depth cues.
 file: /courses/9-35-sensation-and-perception-spring-2009/31ef37ac76305c94207d0d4c6e3e21a4_MIT9_35s09_rec01_depth_cues.pdf
 file_size: 77485
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

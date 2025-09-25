@@ -5,6 +5,8 @@ description: Solutions to a problem set on frequency decomposition of images and
 file: /courses/9-35-sensation-and-perception-spring-2009/49d4a8e271a66bf7cb828b49faf3e28f_MIT9_35s09_sol_pset03.pdf
 file_size: 275517
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Solutions to a problem set on illumination and luminance.
 file: /courses/9-35-sensation-and-perception-spring-2009/353705106ead2b3882b8fd32f113e330_MIT9_35s09_sol_pset04.pdf
 file_size: 3369191
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Solutions to a problem set on sound, hearing, and building the spec
 file: /courses/9-35-sensation-and-perception-spring-2009/1d73c74abb1f44b2936663888380cb22_MIT9_35s09_sol_pset06_part1.pdf
 file_size: 23872
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
