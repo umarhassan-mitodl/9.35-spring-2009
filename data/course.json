@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "54c0ce7e-fa4e-da8f-1c45-111fdceffd2e",
+  "instructors": {
+    "content": [
+      "047782e9-5ef5-3078-1536-78c68220d7ed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a2ef9bd6-d361-d5b3-cf36-9e1035151d67",
+    "website": "9-35-sensation-and-perception-spring-2009"
+  },
+  "course_title": "Sensation And Perception",
+  "course_description": "This course provides an introduction to important philosophical questions about the mind, specifically those that are intimately connected with contemporary psychology and neuroscience. Are our concepts innate, or are they acquired by experience? (And what does it even mean to call a concept 'innate'?) Are 'mental images' pictures in the head? Is color in the mind or in the world? Is the mind nothing more than the brain? Can there be a science of consciousness? The course will include guest lectures by Professors.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.35",
+  "course_image_thumbnail": {
+    "content": "7ea4cfeb-4099-c5ff-992f-b60c16d24b93",
+    "website": "9-35-sensation-and-perception-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "20b2b285-dbb1-408c-a7a2-3990348cb17d",
+  "site_short_id": "9.35-spring-2009",
+  "site_url_path": "courses/9-35-sensation-and-perception-spring-2009",
+  "title": "Course Metadata"
+}
